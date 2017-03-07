@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#66bb6a</color>
+    <color name="colorPrimaryDark">#4CAF50</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="flashcolor">#000000</color>
+    <color name="textcolor">#009688</color>
+    <color name="fab1_color">#4CAF50</color>
+    <color name="fab2_color">#2196F3</color>
+</resources>
